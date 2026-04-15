@@ -30,7 +30,7 @@ This structure is designed to:
                                                 │
                                         Department Leads     
                                                 │
-         ┌──────────────┼────────────┐──────────┐──────────────────┐────────────────────┐
+         ┌───────────────────┐──────────────────┐──────────────────┐────────────────────┐
          │                   │                  │                  │                    │     
 Lead - Logistics   Lead - Production    Lead - Facility    Lead - Operations     Lead - Engagement
          │                   │                  │                  │                    │
